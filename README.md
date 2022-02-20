@@ -1,4 +1,5 @@
 # Minesweeper
+
 A web based minesweeper game to play when you are bored!
 ---
 Inspiration - https://codepen.io/creme/pen/EqeXNJ
